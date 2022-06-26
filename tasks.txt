@@ -1,0 +1,18 @@
+Tasks completed by me on the project
+
+1. Setup the database connection string.
+2. Added code for the Transmission and Daily Rate properties on the Cars.aspx listing.
+3. Created Use Case diagram for the Incident Report Management system and added to the SRS doc.
+4. Added SQL for creating the IncidentReport table and added the table to the RideXpress database.
+5. Created foreign key relationship between the Car and IncidentReport tables using CarID.
+6. Created Entity Relationship diagram and added to the SDD.
+7. Created and added the report view model. Added the model requirements and some of the code.
+8. Created and added the report data access layer. Started adding the code.
+9. Added code for CRUD operations to the ReportDAL.
+10. Created class diagrams.
+11. Created Reports view page and added methods for code behind.
+12. Create Add Reports and Edit Reports pages. Added code to ReportDAL. Also create the sequence diagram.
+13. Added validation to the Add Reports page.
+14. Added validation to the Edit Reports page.
+15. Installed IIS.
+16. Deployed the project locally via Visual Studio and IIS.
